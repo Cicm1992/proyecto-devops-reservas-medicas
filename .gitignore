@@ -1,0 +1,26 @@
+
+# Variables de entorno privadas
+.env
+.env.local
+.env.production
+
+# Archivos sensibles
+*.key
+*.pem
+*.p12
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+
+# Configuración local del editor
+.vscode/
+
+# Archivos generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de respaldo
+backup/
+backups/
