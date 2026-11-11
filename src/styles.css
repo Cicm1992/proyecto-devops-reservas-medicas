@@ -115,3 +115,21 @@ footer {
         font-size: 24px;
     }
 }
+
+/* Mensaje informativo para pacientes */
+.mensaje-informativo {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #e8f6f8;
+    border-left: 4px solid #087e8b;
+    border-radius: 6px;
+}
+
+.mensaje-informativo h3 {
+    color: #087e8b;
+    margin-top: 0;
+}
+
+.mensaje-informativo p {
+    margin-bottom: 8px;
+}
